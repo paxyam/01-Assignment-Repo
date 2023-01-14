@@ -39,3 +39,4 @@
 # ---
 #
 # Bounty:`for completion of everything in the first 3 weeks`
+# Reward: doing 1 thing that the individual wants to do
