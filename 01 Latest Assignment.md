@@ -1,9 +1,7 @@
 # Current Goal and Bounty - 2023/01/01 to 2023/01/31 
-> To submit: copy this post, and add in the relevant information under each objective, some questions are free hand, other questions are very clear
-> In order to submit program assignments, take a screenshot and post and pin it on discord.
-
 ***
-
+## To submit: copy this post, and add in the relevant information under each objective, some questions are free hand, other questions are very clear. in order to submit program assignments, take a screenshot and post and pin it on discord.
+***
 # Goals: 
 ### 1: Discover what language you want to learn first
 
@@ -16,7 +14,7 @@
 ### 5: Watch at least 3 videos and link what videos you watched, prefer videos on "how to start ..." "5 best reasons you should be learning ..." "how my mother was able to make 100k sitting on the couch coding"
 
 ### 6: Explore books or information on how to begin programming your language
-###### *(it is advisable to buy a 1 (one) book on the program you are learning) consider downloading "Human Resource Machine" this will give you a more computer science approach to learn how to program, after which "7 Billion Humans."*
+##### *(it is advisable to buy a 1 (one) book on the program you are learning) consider downloading "Human Resource Machine" this will give you a more computer science approach to learn how to program, after which "7 Billion Humans."*
 
 ### 7: Google "what programs *(or games)* was written in *[your language]* and just look at the code and try to abstract what and why it was written the way that it was
 
