@@ -25,10 +25,10 @@
 ### 10: Make a table of fahrenheit and centigrade, the initial  should start at `40 fahrenheit,` then go up `20 fahrenheit increments,` stopping at `320 fahrenheit.`
 For Example
 
-|40|4|
-|60|15|
-|80|26|
-|100|37|
+> 40 4
+> 60 15
+> 80 26
+> 100 37
 
 ### It doesnt need to label first column as fahrenheit, or second column as celsius, what matters most is the calculation, to figure out celsius the equation is 
 (Fahrenheit - 32) * (5 / 9)
@@ -39,6 +39,6 @@ For Example
 
 ***
 
-# Bounty:for completion of everything in the first 3 weeks
+# Bounty: for completion of everything in the first 3 weeks
 
 # Reward: doing 1 thing that the individual wants to do
