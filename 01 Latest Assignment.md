@@ -29,6 +29,8 @@ For Example
 > 60 15
 > 80 26
 > 100 37
+> ...
+> 320 
 
 ### It doesnt need to label first column as fahrenheit, or second column as celsius, what matters most is the calculation, to figure out celsius the equation is 
 (Fahrenheit - 32) * (5 / 9)
